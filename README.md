@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Dan and I am currently coding in python and am begining to use C++ 
+My name is Dan and I am currently coding in python and using C++ 
 I am relatively new to github and programming so any suggestions will be helpful!
 Thanks for reading! Enjoy!
 
